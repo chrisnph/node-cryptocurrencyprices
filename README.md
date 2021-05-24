@@ -21,4 +21,8 @@ Fetching live currencies from [CryptoCurrencyPrices](https://cryptocurrencyprice
 
 ### **Running Interval Script**
 - `nodemon src/cron/ccp` (with nodemon) or `node src/cron/ccp`
+<br><br>
+
+### **API Route**
+- `{{domain}}:9001/api/market/list`
 
